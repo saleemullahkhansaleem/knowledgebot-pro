@@ -1,0 +1,8 @@
+{
+  "name": "KnowledgeBot Pro",
+  "description": "An enterprise-grade chatbot platform that allows you to build a custom knowledge base and interact with it using Gemini's advanced reasoning capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
